@@ -1,6 +1,8 @@
 MultiSelectDropdown.js
 ================================================
 
+[![Join the chat at https://gitter.im/bsara/multi-select-dropdown.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bsara/multi-select-dropdown.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![CPOL v1.02 License](https://img.shields.io/badge/license-CPOL--1.02-blue.svg?style=flat-square)](https://github.com/bsara/multi-select-dropdown.js/blob/master/LICENSE.md)
 
 [![NPM Package](https://img.shields.io/npm/v/multi-select-dropdown.svg?style=flat-square)](https://www.npmjs.com/package/multi-select-dropdown)&nbsp;
